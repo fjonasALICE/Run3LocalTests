@@ -1,4 +1,4 @@
-# Run3LocalTests - ALICE O2 Physics Analysis Framework
+# Run3LocalTests - Tool to run O2Physics analyses locally and on computing clusters
 
 A toolkit for running ALICE O2 Physics analyses locally, designed for testing and validation of physics analysis workflows before submitting to the Grid.
 
